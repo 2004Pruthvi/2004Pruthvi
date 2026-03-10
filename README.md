@@ -31,7 +31,7 @@ Practice environment using Linux, Vagrant, Git, and cloud tools.
 
 🔗 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/pruthvi-raj-d-s-a53172363?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: https://www.linkedin.com/in/pruthvi-raj-d-s-a53172363?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🐙 GitHub: https://github.com/2004Pruthvi
 
 ⭐Always learning and building new things in DevOps and Cloud.
