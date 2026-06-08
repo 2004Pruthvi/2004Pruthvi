@@ -1,4 +1,4 @@
-Hi there 👋 I'm Pruthvi Raj D S
+Hi there I'm Pruthvi Raj D S
 🎓 Engineering Student | 💻 DevOps & Cloud Learner
 
 About Me
@@ -31,7 +31,7 @@ Practice environment using Linux, Vagrant, Git, and cloud tools.
 
 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pruthvi-raj-d-s-a53172363?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🐙 GitHub: https://github.com/2004Pruthvi
+-  LinkedIn: https://www.linkedin.com/in/pruthvi-raj-d-s-a53172363?utm_source=share_via&utm_content=profile&utm_medium=member_android
+-  GitHub: https://github.com/2004Pruthvi
 
-⭐Always learning and building new things in DevOps and Cloud.
+Always learning and building new things in DevOps and Cloud.
