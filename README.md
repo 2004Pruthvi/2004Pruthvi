@@ -1,28 +1,43 @@
 # Pruthvi Raj D S
 
 <p align="left">
-  <strong>DevOps & Cloud Engineer | Platform Engineering & Infrastructure Automation</strong><br>
-  Bengaluru, India &bull; Cloud Computing & DevOps Intern @ Rooman Technologies &bull; CNCF Open Source Contributor
+  <strong>DevOps &amp; Cloud Engineer | Platform Engineering &amp; Infrastructure Automation</strong><br>
+  Bengaluru, India &bull; Cloud Computing &amp; DevOps Intern @ Rooman Technologies &bull; CNCF Open Source Contributor
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pruthvirajds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pruthvi-lyart.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:pruthviraj462004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/2004Pruthvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/pruthvirajds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://2004pruthvi.github.io/Pruthvi_Portfolio-/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pruthviraj462004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/2004Pruthvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
-I am a **DevOps and Cloud Engineer** specializing in designing and implementing resilient, secure, and automated cloud delivery systems. My background spans building multi-stage **CI/CD pipelines** with Jenkins and GitHub Actions, provisioning infrastructure with **Terraform**, managing server configuration with **Ansible**, and orchestrating container workloads on **AWS (EKS, ECR, EC2, RDS, VPC)**.
+DevOps and Cloud Engineer specializing in designing and implementing resilient, secure, and automated cloud delivery systems. Hands-on background in constructing multi-stage **CI/CD pipelines** with Jenkins and GitHub Actions, provisioning infrastructure with **Terraform**, managing server state with **Ansible**, and orchestrating container workloads on **AWS (EKS, ECR, EC2, RDS, VPC)**.
 
-I believe in **immutable infrastructure**, **least-privilege security**, **automated quality gates (SAST, SCA, container scanning)**, and practical observability. In addition to personal and academic projects, I actively contribute to the **CNCF ecosystem** via the Layer5 and Meshery open-source communities.
+Adherent to **immutable infrastructure**, **least-privilege security**, **automated quality gates (SAST, SCA, container scanning)**, and practical observability. Active contributor to the **CNCF ecosystem** via the Layer5 and Meshery cloud-native management communities.
 
 ---
 
-## 🛠️ Technical Competencies
+## Technical Competencies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SonarQube-4C9BD4?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-1778F2?style=flat-square&logo=aquasec&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
 ```
 ┌─────────────────────────┬─────────────────────────────────────────────────────────────┐
@@ -41,7 +56,7 @@ I believe in **immutable infrastructure**, **least-privilege security**, **autom
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### 1. [Wild Tour DevSecOps Platform](https://github.com/2004Pruthvi/End-to-End-Tourism-Package-Management-Cloud-Native-DevSecOps-Project)
 > **Production-Style Cloud-Native DevSecOps Pipeline & AWS EKS Orchestration**
@@ -83,20 +98,18 @@ I believe in **immutable infrastructure**, **least-privilege security**, **autom
 
 ---
 
-## 🌐 Open Source Contributions
-
-I believe contributing to upstream open-source projects is the best way to develop real-world platform engineering discipline.
+## Open Source Contributions
 
 | Project / Repository | Pull Request | Contribution Summary | Status |
 |:---|:---|:---|:---:|
 | [meshery-extensions / meshery-cilium](https://github.com/meshery-extensions/meshery-cilium) | [PR #196](https://github.com/meshery-extensions/meshery-cilium/pull/196) | Migrated linter configuration to `golangci-lint v2` and modernized static analysis rules | `Under Review` |
 | [meshery-extensions / meshery-cilium](https://github.com/meshery-extensions/meshery-cilium) | [PR #195](https://github.com/meshery-extensions/meshery-cilium/pull/195) | Corrected branch target specification for Meshery repository checkout in E2E testing workflows | `Under Review` |
-| [layer5io / layer5](https://github.com/layer5io/layer5) | [PR #7506](https://github.com/layer5io/layer5/pull/7506) | Fixed visual scrollbar overflow regressions across categories and tags navigation widgets | `Merged` ✅ |
-| [meshery / meshery](https://github.com/meshery/meshery) | [PR #17955](https://github.com/meshery/meshery/pull/17955) | Community onboarding, documentation verification, and newcomers meeting proceedings | `Merged` ✅ |
+| [layer5io / layer5](https://github.com/layer5io/layer5) | [PR #7506](https://github.com/layer5io/layer5/pull/7506) | Fixed visual scrollbar overflow regressions across categories and tags navigation widgets | `Merged` |
+| [meshery / meshery](https://github.com/meshery/meshery) | [PR #17955](https://github.com/meshery/meshery/pull/17955) | Community onboarding, documentation verification, and newcomers meeting proceedings | `Merged` |
 
 ---
 
-## 🔄 CI/CD & Delivery Workflow
+## CI/CD & Delivery Architecture
 
 ```mermaid
 flowchart LR
@@ -124,7 +137,7 @@ flowchart LR
 
 ---
 
-## 🎯 2026 Engineering Roadmap
+## 2026 Engineering Roadmap
 
 * **Advanced Kubernetes Orchestration:** Helm chart packaging, ingress controller routing (Traefik/Nginx), and custom NetworkPolicies.
 * **GitOps Implementation:** Migrating continuous deployment pipelines to ArgoCD for declarative state synchronization.
@@ -133,9 +146,11 @@ flowchart LR
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
-* **Portfolio:** [pruthvi-lyart.vercel.app](https://pruthvi-lyart.vercel.app)
-* **LinkedIn:** [linkedin.com/in/pruthvirajds](https://www.linkedin.com/in/pruthvirajds)
-* **Email:** [pruthviraj462004@gmail.com](mailto:pruthviraj462004@gmail.com)
-* **Location:** Bengaluru, India
+<p align="left">
+  <a href="https://2004pruthvi.github.io/Pruthvi_Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-2088FF?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pruthvirajds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pruthviraj462004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/2004Pruthvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
